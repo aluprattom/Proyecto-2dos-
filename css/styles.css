@@ -91,7 +91,7 @@ section div{
 
 }
 #eeuu{
-  background-image: url(../img/eeuu.jpg);
+  background-image: url(../img/eeuu.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -104,7 +104,7 @@ section div{
 
 }
 #can{
-  background-image: url(../img/canada.jpg);
+  background-image: url(../img/can.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
